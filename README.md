@@ -25,7 +25,7 @@ LIKE LION SYU, DSC SYU SESSION
 리드미 파일만 올리기 <br>
 <h3>2-1. git commit -m "변경된 내용" </h3>
 변경된 내용 커밋 <br>
-<h3>2-2. git reset HEAD^</h3> <br>
+<h3>2-2. git reset HEAD^</h3>
 완료한 커밋 취소 <br>
 <h3>3-1. git push -u origin master </h3>
 원격 저장소에 프로젝트 발행 <br>
